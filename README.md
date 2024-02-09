@@ -1,5 +1,5 @@
 # React-Context-Cart
-<p>This is an Shopping Cart using Context For showing to easy to access for user will using for there shopping which was designed by me using Reactjs. It's Guvi-Zen class Roadmap session: Day-28 and React : Day-8 Task.</p>
+<p>This is an Shopping Cart using Context in reactjs For showing to easy to access for user will using for there shopping which was designed by me using Reactjs. It's Guvi-Zen class Roadmap session: Day-28 and React : Day-8 Task.</p>
 
 ## Tech Stack
 <ul>
