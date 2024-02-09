@@ -15,7 +15,7 @@
 </ul>
 
 ## Learn About
-<p>I learned to Context as well as to pass data to component elements as per the request which helped me to understand</p>
+<p>I learned to Context as well as to passing data to component elements as per the request which helped me to understand</p>
 
 
 
