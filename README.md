@@ -1,8 +1,30 @@
-# React + Vite
+# React-Todo-List
+<p>This is an Shopping Cart using Context For showing to easy to access for user will using for there shopping which was designed by me using Reactjs. It's Guvi-Zen class Roadmap session: Day-28 and React : Day-8 Task.</p>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Tech Stack
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JAVASCRIPT</li>
+  <li>REACT</li>
+</ul>
 
-Currently, two official plugins are available:
+## Features
+<ul>
+  <li>User friendly and Responsive attractive Design</li>
+</ul>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Learn About
+<p>I learned to Context as well as to pass data to component elements as per the request which helped me to understand</p>
+
+
+
+## Website
+<a href="https://react-context-task.netlify.app/" target="_blank">Preview</a>
+
+## Setup
+<p>Following are the requirements to run this project:</p>
+<ul>
+  <li>Node Package Manager (NPM)</li>
+  <li>React</li>
+</ul>
